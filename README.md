@@ -15,7 +15,7 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
+- `hero-path`: I made it so the hero pulls out the sword and makes their way towards a lair in the first commit then in the next commit I added that they slay a dragon with it.
 - `villain-path`: _[Describe your changes here]_
 
 ## Final Checklist
