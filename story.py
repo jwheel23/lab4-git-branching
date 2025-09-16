@@ -12,8 +12,8 @@ def intro():
 
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
-    print("You pull out the stone and start your way towards the dragon's layer.")
-    print("After making it to the dragon's layer and a close fight, you succeed in slaying the dragon.")
+    print("You pull out the stone and start your way towards the dragon's lair.")
+    print("After making it to the dragon's lair and a close fight, you succeed in slaying the dragon.")
 
 def center_path():
     print("You walk center and come across the tracks of a large beast going down the same path as you.")
