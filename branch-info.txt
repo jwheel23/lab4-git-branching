@@ -10,14 +10,14 @@ Branches in this repo (with details):
     1ac9197 | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Date: 2025-09-16T16:00:39Z | Added second step on hero path.
     5b6489e | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Date: 2025-09-16T15:59:59Z | Added second step on hero path.
 - main
-  SHA: 7628db2c5a9ed723f440e617c419ee1ccfc785f9
-  Commits: 5
+  SHA: 0cabc5cada01dfa7dbed02147e8e1c871daac502
+  Commits: 10
   Recent commits:
-    7628db2 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T16:05:09Z | Auto-update branch-info.txt
-    de56274 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T16:04:45Z | Auto-update branch-info.txt
-    8271ef1 | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Date: 2025-09-16T15:58:10Z | Added a center path.
-    c6ab8d5 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T15:29:40Z | Auto-update branch-info.txt
-    14bdda1 | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-16T11:29:29-04:00 | Initial commit
+    0cabc5c | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Date: 2025-09-22T20:16:26Z | I was told to for this assignment Merge branch 'villain-path'
+    fe10997 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-22T20:14:27Z | Auto-update branch-info.txt
+    bb70731 | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Date: 2025-09-22T20:13:57Z | Updated README
+    a1b3b7a | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Date: 2025-09-22T20:12:30Z | Added third step for villain path.
+    01cae0f | Author: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Committer: Jacob Wheeler <232294536+jwheel23@users.noreply.github.com> | Date: 2025-09-22T20:11:38Z | Added second step of villain path.
 - villain-path
   SHA: bb70731cae8e80dd97a9e87d0a768236be2ceace
   Commits: 8
