@@ -18,6 +18,8 @@ def center_path():
     
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
+    print("You defeat the squirrel in combat, the blood of the aftermath seems to call to you.")
+    print("You continue through the woods, now looking for more blood to spill so that you can hear what it tells you.")
 
 if __name__ == "__main__":
     intro()
